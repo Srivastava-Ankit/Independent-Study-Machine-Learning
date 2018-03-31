@@ -3,7 +3,7 @@ Machine Learning Research
 
 
 # Under Gidence
-Prof. Nakoluas Correll
+Prof. Nikoluas Correll
 http://correll.cs.colorado.edu/
 
 # Descriptions
