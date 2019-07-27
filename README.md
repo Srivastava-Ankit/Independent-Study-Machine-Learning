@@ -2,7 +2,7 @@
 Machine Learning Research
 
 
-# Under Guidence
+# Under Guidence of
 Prof. Nikoluas Correll
 http://correll.cs.colorado.edu/
 
